@@ -42,4 +42,4 @@ Create a high-end web application to generate Quranic Reels. The app must fetch 
 1\.  \*\*Project Architecture:\*\* Setup for Next.js \+ Remotion.  
 2\.  \*\*Collection Fetching Logic:\*\* TypeScript code to fetch and cache videos from the specific Pexels and Pixabay collections.  
 3\.  \*\*The Remotion Composition:\*\* The main React component for the Reel.  
-4\.  \*\*AI Integration:\*\* How Gemini picks the "best" video from the fetched collection list.  
+4\.  \*\*AI Integration:\*\* How Gemini picks the "best" video from the fetched collection list.
